@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Kempegowda International Airport',
-    description: "This is the offial website of bangaluru airport. Here users can book tickets, book neraby hotels and can also subscribe to the website for more benefits in the form of offers and more reward points.",
+    description: "This is the official website of bangaluru airport. Here users can book tickets, book neraby hotels and can also subscribe to the website for more benefits in the form of offers and more reward points.",
       image: '/images/airport.png',
       tags: ['React', 'Express', 'MongoDb', 'Node.js'],
     source: 'https://google.com',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Netflix-Clone',
-    description:"This website lists the movies and web shows and can also stream the trailer of the movies on clicking the movie image from youtube.",
+    description:"This website lists the movies and web shows and can also stream the trailer of the movies on clicking the movie image.",
     image: '/images/netflix.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
