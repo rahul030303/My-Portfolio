@@ -1,8 +1,8 @@
+
 import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
-
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
 
 const Header = () =>  (
@@ -32,13 +32,13 @@ const Header = () =>  (
       </li>        
     </Div2>
       <Div3>
-        <SocialIcons target={"_blank"} href="https://github.com/rahul030303g">
+        <SocialIcons target={"_blank"} href="https://github.com/singhrahul03g">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons target={"_blank"} href="https://www.linkedin.com/in/rahul030303l/">
+        <SocialIcons target={"_blank"} href="https://www.linkedin.com/in/rahul-aka-sabal/">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
-        <SocialIcons target={"_blank"} href="https://www.instagram.com/rahul030303i/">
+        <SocialIcons target={"_blank"} href="https://www.instagram.com/rahul_aka_sabal/">
           <AiFillInstagram size="3rem"/>
         </SocialIcons>
       </Div3>

@@ -38,9 +38,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: 'Started my journey', },
+ 
   { year: 2019, text: 'Learning to code and development', },
   { year: 2020, text: 'Training and Internships', },
   { year: 2021, text: 'Worked as a software developer', },
   { year: 2022, text: 'Worked as a software developer', },
+  { year: 2023, text: 'Worked as a software developer', }
+
+
 ];
